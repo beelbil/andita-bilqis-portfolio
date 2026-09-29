@@ -48,7 +48,7 @@ export const educationData: EducationItem[] = [
     description: "The journey so far — turning curiosity into code, exploring software engineering, and learning to build solutions that are both thoughtful and scalable."
   },
   {
-    institution: "SMA Sulthon Aulia Boarding School",
+    institution: "SABS High School",
     period: "2021 - 2024",
     degree: "SENIOR HIGH SCHOOL",
     major: "Islamic Studies · Boarding School",
