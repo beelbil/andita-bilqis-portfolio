@@ -12,6 +12,7 @@ import {
   SiNextdotjs,
   SiTypescript,
   SiTailwindcss,
+  SiVite,
   SiPostgresql,
   SiFigma,
   SiGithub,
@@ -35,6 +36,10 @@ const aboutTechStack: {
   {
     name: 'React',
     icon: SiReact,
+  },
+  {
+    name: 'Vite',
+    icon: SiVite,
   },
   {
     name: 'Next.js',
